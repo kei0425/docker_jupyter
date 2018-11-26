@@ -8,4 +8,4 @@ ADD sh /root/sh
 
 EXPOSE 80
 
-CMD ['/root/sh/start.sh']
+CMD ["/root/sh/start.sh"]
